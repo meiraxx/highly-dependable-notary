@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bbe4129-546d-42fe-bb1b-eb8ec784db6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/ClientBroadcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/ClientBroadcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../notary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notary/goods_list1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../notary/goods_list1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notary/goods_list2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../notary/goods_list2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notary/goods_list3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../notary/goods_list3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notary/goods_list4.json" beforeDir="false" afterPath="$PROJECT_DIR$/../notary/goods_list4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notary/logs1.json" beforeDir="false" afterPath="$PROJECT_DIR$/../notary/logs1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notary/logs2.json" beforeDir="false" afterPath="$PROJECT_DIR$/../notary/logs2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notary/logs3.json" beforeDir="false" afterPath="$PROJECT_DIR$/../notary/logs3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notary/logs4.json" beforeDir="false" afterPath="$PROJECT_DIR$/../notary/logs4.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="client" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2108">
+              <caret line="136" column="54" selection-start-line="136" selection-start-column="54" selection-end-line="136" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/UtilMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="147" column="38" selection-start-line="147" selection-start-column="38" selection-end-line="147" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#now#0;class#UtilMethods#0" />
+                <element signature="method#writeFile#0;class#UtilMethods#0" />
+                <element signature="method#readFile#0;class#UtilMethods#0" />
+                <element signature="method#sendMessage#0;class#UtilMethods#0" />
+                <element signature="method#convertStringToJSON#0;class#UtilMethods#0" />
+                <element signature="method#convertFileToJSON#0;class#UtilMethods#0" />
+                <element signature="method#jsonGetObjectByKey#0;class#UtilMethods#0" />
+                <element signature="method#changeVersionOfJSON#0;class#UtilMethods#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/ClientBroadcast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="269" column="49" selection-start-line="269" selection-start-column="49" selection-end-line="269" selection-end-column="49" />
+              <folding>
+                <element signature="e#6170#6188#0" expanded="true" />
+                <element signature="e#6251#6259#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/RemoteCallThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+              <folding>
+                <element signature="e#1046#1047#0" expanded="true" />
+                <element signature="e#1068#1069#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/ClientLibrary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8789">
+              <caret line="538" column="73" selection-start-line="538" selection-start-column="73" selection-end-line="538" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/ClientSecurity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="504" column="74" selection-start-line="504" selection-start-column="59" selection-end-line="504" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/WaitForP2PThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/P2PThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>intentionToSell</find>
+      <find>authenticated</find>
+      <find>sendCommand</find>
+      <find>receiveAndSolveCryptoPuzzle</find>
+      <find>getH</find>
+      <find>cryptoPuzzle</find>
+      <find>highestValue</find>
+      <find>notaries</find>
+      <find>numberOfNotaries</find>
+      <find>getHighestConsensusValue</find>
+      <find>getHighestVal</find>
+      <find>N &gt; F</find>
+      <find>N+F</find>
+      <find>threshold</find>
+      <find>Good</find>
+      <find>Good has been</find>
+      <find>handleStatus</find>
+      <find>System.out.println</find>
+      <find>rids</find>
+      <find>WTS</find>
+      <find>###</find>
+      <find>bruteforce</find>
+      <find>transfe</find>
+      <find>transferGood</find>
+      <find>Quorum</find>
+      <find>getHighestValue</find>
+      <find>getHighestConsensusValueAux</find>
+      <find>ensureFreshness</find>
+      <find>.run</find>
+      <find>getStateOfGood</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/clients_info.json" />
+        <option value="$PROJECT_DIR$/certs_info.tmp" />
+        <option value="$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/exceptions/ClientException.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/exceptions/ClientLibraryException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/WaitForP2PThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/P2PThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/UtilMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/ClientSecurity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/ClientLibrary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/ClientBroadcast.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ProjectoSEC1819" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ProjectoSEC1819" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="95" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="client" type="58d84e3e:PackageViewProjectNode" />
+              <item name="client" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="client" type="58d84e3e:PackageViewProjectNode" />
+              <item name="client" type="616d4139:PackageViewModuleNode" />
+              <item name="pt.ulisboa.tecnico.sec.client" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553923641815" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bbe4129-546d-42fe-bb1b-eb8ec784db6d" name="Default Changelist" comment="" />
+      <created>1553910910244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553910910244</updated>
+      <workItem from="1553910917948" duration="11259000" />
+      <workItem from="1554067732860" duration="1450000" />
+      <workItem from="1554176090123" duration="3688000" />
+      <workItem from="1554234161519" duration="2755000" />
+      <workItem from="1554299713988" duration="131000" />
+      <workItem from="1554313216191" duration="16098000" />
+      <workItem from="1554396084175" duration="4460000" />
+      <workItem from="1554469962891" duration="19850000" />
+      <workItem from="1554579160068" duration="18048000" />
+      <workItem from="1554606209927" duration="699000" />
+      <workItem from="1554665364706" duration="1194000" />
+      <workItem from="1554720560895" duration="884000" />
+      <workItem from="1554762179045" duration="4951000" />
+      <workItem from="1554772650035" duration="8413000" />
+      <workItem from="1554982218914" duration="1409000" />
+      <workItem from="1554995024564" duration="6018000" />
+      <workItem from="1555013576960" duration="3345000" />
+      <workItem from="1555021295424" duration="3480000" />
+      <workItem from="1555030986668" duration="520000" />
+      <workItem from="1555031975857" duration="1945000" />
+      <workItem from="1555083003960" duration="126000" />
+      <workItem from="1555083315439" duration="34000" />
+      <workItem from="1555931111178" duration="595000" />
+      <workItem from="1556651124463" duration="41000" />
+      <workItem from="1556651183467" duration="1224000" />
+      <workItem from="1556713341613" duration="7321000" />
+      <workItem from="1556732396433" duration="20844000" />
+      <workItem from="1556821554197" duration="3170000" />
+      <workItem from="1557150789533" duration="2072000" />
+      <workItem from="1557515295467" duration="24000" />
+      <workItem from="1557515460176" duration="330000" />
+      <workItem from="1557515810385" duration="6244000" />
+      <workItem from="1557609948989" duration="23675000" />
+      <workItem from="1557648817195" duration="3463000" />
+      <workItem from="1557743794874" duration="5514000" />
+      <workItem from="1557753213358" duration="4745000" />
+      <workItem from="1557773987202" duration="1708000" />
+      <workItem from="1557798409184" duration="7103000" />
+      <workItem from="1557835819772" duration="5576000" />
+      <workItem from="1558011822007" duration="4546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="208952000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.2751678" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.50329673" side_tool="true" weight="0.24966443" />
+      <window_info id="Favorites" order="6" sideWeight="0.5028329" side_tool="true" weight="0.2671141" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2407932" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.10604027" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Programs-HDD/Android/Android Studio/jre/jre/lib/rt.jar!/java/lang/Integer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="43" column="68" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/exceptions/ExitException.java" />
+    <entry file="jar://D:/Programs-HDD/Android/Android Studio/jre/jre/lib/rt.jar!/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/pt/ulisboa/tecnico/sec/communications/0.0.1-SNAPSHOT/communications-0.0.1-SNAPSHOT.jar!/pt/ulisboa/tecnico/sec/communications/Communications.class" />
+    <entry file="file://$PROJECT_DIR$/user_ports.json" />
+    <entry file="file://$PROJECT_DIR$/certs_info.tmp" />
+    <entry file="jar://D:/Programs-HDD/Android/Android Studio/jre/jre/lib/rt.jar!/java/net/ServerSocket.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients_info.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="66" selection-start-column="66" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/exceptions/ClientException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/exceptions/UtilMethodsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/exceptions/ClientLibraryException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/pt/ulisboa/tecnico/sec/communications/1.0/communications-1.0.jar!/pt/ulisboa/tecnico/sec/communications/Communications.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Programs-HDD/Android/Android Studio/jre/jre/lib/rt.jar!/java/util/Scanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2051">
+          <caret line="186" column="42" selection-start-line="186" selection-start-column="42" selection-end-line="186" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="136" column="54" selection-start-line="136" selection-start-column="54" selection-end-line="136" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/UtilMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="147" column="38" selection-start-line="147" selection-start-column="38" selection-end-line="147" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#now#0;class#UtilMethods#0" />
+            <element signature="method#writeFile#0;class#UtilMethods#0" />
+            <element signature="method#readFile#0;class#UtilMethods#0" />
+            <element signature="method#sendMessage#0;class#UtilMethods#0" />
+            <element signature="method#convertStringToJSON#0;class#UtilMethods#0" />
+            <element signature="method#convertFileToJSON#0;class#UtilMethods#0" />
+            <element signature="method#jsonGetObjectByKey#0;class#UtilMethods#0" />
+            <element signature="method#changeVersionOfJSON#0;class#UtilMethods#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/RemoteCallThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+          <folding>
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/ClientLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8789">
+          <caret line="538" column="73" selection-start-line="538" selection-start-column="73" selection-end-line="538" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/WaitForP2PThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/P2PThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/ClientSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="504" column="74" selection-start-line="504" selection-start-column="59" selection-end-line="504" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pt/ulisboa/tecnico/sec/client/ClientBroadcast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="269" column="49" selection-start-line="269" selection-start-column="49" selection-end-line="269" selection-end-column="49" />
+          <folding>
+            <element signature="e#6170#6188#0" expanded="true" />
+            <element signature="e#6251#6259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+# build files
+common/target/*
+communications/target/*
+ccUtility/target/*
+notary/target/*
+client/target/*
